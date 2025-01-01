@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Uni.iml" filepath="$PROJECT_DIR$/Java_Uni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp1-2/Tp1-2.iml" filepath="$PROJECT_DIR$/Tp1-2/Tp1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp3-4/Tp3-4.iml" filepath="$PROJECT_DIR$/Tp3-4/Tp3-4.iml" />
     </modules>
   </component>
 </project>
